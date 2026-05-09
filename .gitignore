@@ -1,0 +1,19 @@
+.env
+# Environnement virtuel
+.venv/
+
+# Base de données vectorielle
+moringa_vectorstore/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+
+
+.idea/
+__pycache__/
+
+# Données
+*.csv
+
