@@ -13,6 +13,12 @@ Pharma-AI is an intelligent biomedical assistant that helps researchers, pharmac
 
 ---
 
+## Live Demo
+
+Try Pharma-AI online: [Pharma-AI Web App](https://pharma-ai-9k4pqn6ymtkamdzhmpz6so.streamlit.app/)
+
+Explore medicinal plants, active compounds, drug interactions, and scientific insights in real time.
+
 ## Features
 
 - **AI Agent (RAG + Llama 3)** — answers biomedical questions using PubChem and PubMed data
